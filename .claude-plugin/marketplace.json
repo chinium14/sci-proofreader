@@ -1,0 +1,14 @@
+{
+  "name": "scientific-proof",
+  "description": "Proofreading tools for scientific drafts",
+  "owner": {
+    "name": "Shuai Wei"
+  },
+  "plugins": [
+    {
+      "name": "sci-proofreader",
+      "source": "./",
+      "description": "Proofreads scientific drafts and reports grammar errors, logic disconnections, and ambiguous or non-scientific wording, each labelled by category with a suggested fix."
+    }
+  ]
+}

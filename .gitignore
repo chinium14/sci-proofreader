@@ -1,0 +1,4 @@
+.DS_Store
+*.proofread.md
+*.proofread-*.md
+!examples/sample_draft.proofread.md
