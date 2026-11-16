@@ -114,4 +114,4 @@ After editing, run `claude plugin validate .` in this folder.
 
 ## Licence
 
-MIT; see [LICENSE](LICENSE). Third-party files keep their own licences.
+MIT; see [LICENSE](LICENSE). Third-party files keep their own licences; see [NOTICE](NOTICE).
